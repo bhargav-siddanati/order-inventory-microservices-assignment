@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "sku": "SKU-APPLE",
+      "name": "Apple",
+      "type": "PERISHABLE",
+      "batches": [
+        {"batchCode": "A1", "quantity": 50, "expiryDate": "2025-12-01"},
+        {"batchCode": "A2", "quantity": 30, "expiryDate": "2025-12-15"}
+      ]
+    },
+    {
+      "sku": "SKU-BANANA",
+      "name": "Banana",
+      "type": "PERISHABLE",
+      "batches": [
+        {"batchCode": "B1", "quantity": 40, "expiryDate": "2025-11-30"},
+        {"batchCode": "B2", "quantity": 60, "expiryDate": "2025-12-10"}
+      ]
+    },
+    {
+      "sku": "SKU-MASK",
+      "name": "Face Mask",
+      "type": "MEDICAL",
+      "batches": [
+        {"batchCode": "M1", "quantity": 100, "expiryDate": "2026-01-31"}
+      ]
+    },
+    {
+      "sku": "SKU-CHAIR",
+      "name": "Office Chair",
+      "type": "STANDARD",
+      "batches": [
+        {"batchCode": "C1", "quantity": 20, "expiryDate": "2030-01-01"}
+      ]
+    },
+    {
+      "sku": "SKU-WATER",
+      "name": "Bottled Water",
+      "type": "STANDARD",
+      "batches": [
+        {"batchCode": "W1", "quantity": 200, "expiryDate": "2027-06-30"},
+        {"batchCode": "W2", "quantity": 150, "expiryDate": "2027-07-31"}
+      ]
+    }
+  ]
+}
