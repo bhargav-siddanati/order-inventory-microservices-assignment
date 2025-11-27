@@ -158,3 +158,4 @@ It exposes business logic using below URI:
 - Re-check Inventory to confirm quantities deducted across batches FIFO.
 
 ---
+### Attached the postman collection in the same repo with name `Koerber.postman_collection`.
